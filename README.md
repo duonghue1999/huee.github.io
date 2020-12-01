@@ -1,7 +1,8 @@
 # huee.github.io
-Tài khoản quản trị : user: admin ; pass: admin
+Tài khoản quản trị : user: admin ; pass: admin  
+
 Tài khoản người dùng: tự đăng ký hoặc( user hue ; pass 1234)
-Link trên host : 
+Link trên host : http://banhang.rf.gd/index/
 
 Việc mua sắm online ngày càng trở nên quan trọng và cần thiết,chỉ cần 1 cú click chuột thì họ có thể có được sản phẩm mà mình mong muốn.
 Việc mua sắm online có nhiều ưu điểm là có thể sở hữu mọi thứ thông qua các cú click chuột chứ không cần phải đến tận nơi để mua hàng. 
