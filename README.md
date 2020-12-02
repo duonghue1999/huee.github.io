@@ -15,5 +15,11 @@ Các sản phẩm cần mua sẽ được thêm ở trong giỏ hàng. Khi thanh
 Nút admin panel sẽ giúp người quản trị quản lý hệ thống của trang web.
 ![Screenshot (18)](https://user-images.githubusercontent.com/75239327/100817023-f1f53c00-3479-11eb-9225-6781fb13ad04.png)
 
+Sử dụng MYSQL để thực hiện xây dựng cơ sở dữ liệu.
+Các bảng trong cơ sở dữ liệu được liên kêt chặt chẽ với nhau.
 
+![Screenshot (17)](https://user-images.githubusercontent.com/75239327/100818734-5239ad00-347d-11eb-8316-2f506e644ba4.png)
+
+
+Thực hiện đẩy trang web lên host infinityfree.
 
