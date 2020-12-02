@@ -13,3 +13,7 @@ Khách hàng có thể tìm kiếm theo loại sản phẩm hoặc theo tên s�
 Khách hàng có thể gửi feedback cho trang web để cải thiện trang web.
 Các sản phẩm cần mua sẽ được thêm ở trong giỏ hàng. Khi thanh toán sẽ hiên thanh tóan thành công.
 Nút admin panel sẽ giúp người quản trị quản lý hệ thống của trang web.
+![Screenshot (18)](https://user-images.githubusercontent.com/75239327/100817023-f1f53c00-3479-11eb-9225-6781fb13ad04.png)
+
+
+
