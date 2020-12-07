@@ -16,10 +16,16 @@ Nút admin panel sẽ giúp người quản trị quản lý hệ thống của 
 ![Screenshot (18)](https://user-images.githubusercontent.com/75239327/100817023-f1f53c00-3479-11eb-9225-6781fb13ad04.png)
 
 Sử dụng MYSQL để thực hiện xây dựng cơ sở dữ liệu.
+Phân tích cơ sở dữ liệu MYSQL 
+-Gồm 6 bảng trong cơ sở dữ liệu:
+            Feedback , user , band, order , admin_acount , product
 Các bảng trong cơ sở dữ liệu được liên kêt chặt chẽ với nhau.
+
+Bảng product liên kết với bảng order qua id_product và bảng brand thông qua id_hang;
+Bảng user liên kết với bảng feedback và bảng order; 
 
 ![Screenshot (17)](https://user-images.githubusercontent.com/75239327/100818734-5239ad00-347d-11eb-8316-2f506e644ba4.png)
 
 
 Thực hiện đẩy trang web lên host infinityfree.
-
+Cần tải boostrap về để xây dựng trang web. 
